@@ -1,12 +1,12 @@
-# MVC App with Integration Tests
+# MVC App with Integration Tests ✅
 
 Integration tests of Web MVC app with Mocha, running in GitHub actions.
 
-Production @Render https://studentsregistry-m1qi.onrender.com
+Fork repo GitHub: https://github.com/QA-Automation-Testing-Demo/StudentsRegistry
 
-GitHub: https://github.com/QA-Automation-Testing-Demo/StudentsRegistry
+Test results: https://github.com/Cappricornia/StudentsRegistry/actions
 
-Test results: https://github.com/QA-Automation-Testing-Demo/StudentsRegistry/actions
+Production @Render https://studentregistryexample.onrender.com/
 
 
 ### >>> Run PowerShell Mocha Tests
